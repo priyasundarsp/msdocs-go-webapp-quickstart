@@ -1,4 +1,4 @@
-# Deploy a Go Web App to Azure Container Apps
+# Deploy Sample Go Web App to Azure Container Apps
 
 Learn how to use Docker, Azure Container Registry, and Azure Container Apps to deploy a Go web ap to Azure.
 
